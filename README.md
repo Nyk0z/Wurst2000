@@ -1,4 +1,4 @@
-# Wurst Client v7
+# Wurst 2000 - Nyk0z fork!
 
 ## Downloads (for users)
 
